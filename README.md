@@ -11,6 +11,13 @@ This project is a simple To Do List application built using Python and Django. I
 - Mark tasks as complete.
 - Delete tasks.
 
+*Data Model*
+
+- ID (Auto-incremented)
+- Title
+- Description
+- Action
+  
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
